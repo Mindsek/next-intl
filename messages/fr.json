@@ -1,0 +1,31 @@
+{
+    "Index": {
+        "title": "Bonjour le monde!"
+    },
+    "Navigation": {
+        "home": "Accueil",
+        "products": "Produits"
+    },
+    "Metadata": {
+        "title": "NEXT-INTL FR",
+        "description": "NEXT-INTL FR Description Francaise",
+        "pages": {
+            "home": "Accueil",
+            "products": "Produits"
+        }
+    },
+    "Products": {
+        "title": "Produits",
+        "description": "Produits Description Francaise",
+        "colors": {
+            "white": "Blanc",
+            "blue": "Bleu",
+            "green": "Vert"
+        }
+    },
+    "NotFoundPage": {
+        "title": "Page non trouvée",
+        "description": "La page que vous recherchez n'existe pas.",
+        "link": "Retour à la page d'accueil"
+    }
+}

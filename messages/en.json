@@ -1,0 +1,31 @@
+{
+  "Index": {
+    "title": "Hello world!"
+  },
+  "Navigation": {
+    "home": "Home",
+    "products": "Products"
+  },
+  "Metadata": {
+    "title": "NEXT-INTL EN",
+    "description": "NEXT-INTL EN Description English",
+    "pages": {
+      "home": "Home",
+      "products": "Products"
+    }
+  },
+  "Products": {
+    "title": "Products",
+    "description": "Products Description English",
+    "colors": {
+      "white": "White",
+      "blue": "Blue",
+      "green": "Green"
+    }
+  },
+  "NotFoundPage": {
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist.",
+    "link": "Go back to the home page"
+  }
+}
